@@ -24,6 +24,12 @@ A pasta `data`  apresenta duas subpastas, a pasta `raw` contém os dados brutos 
 
 A pasta `pdf` contém o working paper do projeto e por último a pasta `pics` contém todas as imagens geradas no artigo.
 
+# Dados FIES Inscrição e CENSUP
+
+O `.gitignore` mostra que não carregamos os dados do CENSUP e os dados de FIES_SISU/Inscricao, Para ter acesso aos dados brutos utilizados, baixe-os separadamente no link disponível no google drive abaixo.
+
+[Dados Artigo](https://drive.google.com/drive/folders/1u2NH0dmARP2IyGSuu-ouruNtSNn92Zs-?usp=sharing)
+
 
 # Versão do R e pacotes
 
